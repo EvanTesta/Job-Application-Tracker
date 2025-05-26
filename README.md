@@ -9,16 +9,16 @@ The Core Functionality
 - The user can click a button to download all their applications as a spreadsheet
 - The user can input a spreadsheet of their own to be used 
 #### Stretch Goals
-Extra stuff 
 - Self hosting 
 - There are buttons for if they got an interview or job 
 - Additional functionality to find jobs for the user
 - Log In to store the user's jobs on the site
 - The user can decide which information is stored, like if they want the salary or not
 #### Tech Stack
-Python (Beautiful Soup) - Web Scraper 
-Django - Web Framework
-PostgreSQL - Database
+ - Python (Beautiful Soup): Web Scraper 
+ - Django: Web Framework
+ - PostgreSQL: Database
 #### Difficulty 
-How hard is to web scrape? What are the limitations?
-What will the front end look like?
+ - How hard is to web scrape? What are the limitations?
+ - What will the front end look like?
+
