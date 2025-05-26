@@ -22,3 +22,6 @@ The Core Functionality
  - How hard is to web scrape? What are the limitations?
  - What will the front end look like?
 
+#### Inspiration
+ - https://mobbin.com/
+ - https://centra.dev/
